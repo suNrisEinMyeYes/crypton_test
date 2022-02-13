@@ -1,7 +1,7 @@
 # Usage:
 
 
-**npm run build** - to compile proj
+**npm run build** - to compile proj(or **npx hardhat compile**)
 
 **npx hardhat run scripts/deploy.js --network [your_network]**  - deploying command, specified network - "rinkeby" !required .env file with defined "API_URL" and "PRIVATE_KEY"
 
